@@ -9,5 +9,5 @@ services:
       - ./src:/src
     ports:
       - "8888:8888"
-      - "5000:5000"
+      - "5002:5002"
     command: jupyter-lab --ip 0.0.0.0 --allow-root -b localhost
