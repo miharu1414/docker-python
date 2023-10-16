@@ -5,3 +5,5 @@
 3. docker-container ls   #コンテナの起動を確認
 4. docker-compose exec -it jupyterlab bash  #コンテナ内に接続
 5. docker logs jupyterlab-test | tail  #jupyterlabのTokenの確認
+
+grbgetkey dc34e1eb-c5b7-4f7c-ac4a-2815504bc0f9
